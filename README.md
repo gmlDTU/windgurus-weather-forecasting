@@ -1,4 +1,4 @@
-# windgurus-weather-forecasting
+# windgurus-wind-power-forecasting
 
 Project developed by DTU group WindGurus for course 02456 - Deep Learning
 
